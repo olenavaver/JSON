@@ -1,1 +1,9 @@
-
+{
+  "Id":"1"
+  "Title":"Status code 404 in main page",
+  "STR":"Go to www.github.com",
+  "Expected result":"Mane page is opened",
+  "Actual result":"Status code 404",
+  "Environment":"macBook Monterey v12.6, Chrome v1.23.1837",
+  "Attachment":"bug_1"
+}
